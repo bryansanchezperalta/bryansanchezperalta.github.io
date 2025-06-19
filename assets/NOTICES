@@ -14173,7 +14173,7 @@ https://www.unicode.org/Public/
 https://www.unicode.org/reports/
 https://www.unicode.org/ivd/data/
 
-Unicode Data Files do not include docx online code charts under the directory:
+Unicode Data Files do not include PDF online code charts under the directory:
 https://www.unicode.org/Public/
 
 Unicode Software ("SOFTWARE") includes any source code published in the Unicode Standard
@@ -14186,7 +14186,7 @@ C. Terms of Use
 2. Any person is hereby authorized, without fee, to view, use, reproduce, and distribute all documents and files, subject to the Terms and Conditions herein.
 3. Further specifications of rights and restrictions pertaining to the use of the Unicode DATA FILES and SOFTWARE can be found in the Unicode Data Files and Software License.
 4. Each version of the Unicode Standard has further specifications of rights and restrictions of use. For the book editions (Unicode 5.0 and earlier), these are found on the back of the title page.
-5. The Unicode docx online code charts carry specific restrictions. Those restrictions are incorporated as the first page of each docx code chart.
+5. The Unicode PDF online code charts carry specific restrictions. Those restrictions are incorporated as the first page of each PDF code chart.
 6. All other files, including online documentation of the core specification for Unicode 6.0 and later, are covered under these general Terms of Use.
 7. No license is granted to "mirror" the Unicode website where a fee is charged for access to the "mirror" site.
 8. Modification is not permitted with respect to this document. All copies of this document must be verbatim.
@@ -30129,8 +30129,8 @@ The best short technical introduction to the JPEG compression algorithm is
     Communications of the ACM, April 1991 (vol. 34 no. 4), pp. 30-44.
 (Adjacent articles in that issue discuss MPEG motion picture compression,
 applications of JPEG, and related topics.)  If you don't have the CACM issue
-handy, a docx file containing a revised version of Wallace's article is
-available at http://www.ijg.org/files/Wallace.JPEG.docx.  The file (actually
+handy, a PDF file containing a revised version of Wallace's article is
+available at http://www.ijg.org/files/Wallace.JPEG.pdf.  The file (actually
 a preprint for an article that appeared in IEEE Trans. Consumer Electronics)
 omits the sample images that appeared in CACM, but it includes corrections
 and some added material.  Note: the Wallace article is copyright ACM and IEEE,
@@ -30163,7 +30163,7 @@ The JPEG standard does not specify all details of an interchangeable file
 format.  For the omitted details we follow the "JFIF" conventions, revision
 1.02.  JFIF 1.02 has been adopted as an Ecma International Technical Report
 and thus received a formal publication status.  It is available as a free
-download in docx format from
+download in PDF format from
 http://www.ecma-international.org/publications/techreports/E-TR-098.htm.
 A PostScript version of the JFIF document is available at
 http://www.ijg.org/files/jfif.ps.gz.  There is also a plain text version at
